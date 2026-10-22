@@ -3,6 +3,8 @@
 ## Hi there 👋
 
 <!--
+tkdht69<img width="225" height="17" alt="image" src="https://github.com/user-attachments/assets/f91bbe83-6f6c-40ea-8e8e-c135b57183ef" />
+
 **chintanaki/chintanaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
